@@ -90,9 +90,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include map.html id="1rd1BpJomQYHnNzXfip2UfOUueV7TXdY" title="Yong In University MILAB" %}
 
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Yong In University MILAB" %}{% endraw %}
-```
+
 
 ### Button include
 
@@ -118,9 +116,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 
 {% include video.html id="I2vNhqzvVLw" title="Siteleaf tutorial video" %}
 
-``` html
-{% raw %}{% include video.html id="I2vNhqzvVLw" title="Siteleaf tutorial video" %}{% endraw %}
-```
+
 
 
 ### Image includes

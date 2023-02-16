@@ -1,25 +1,18 @@
 ---
-title: Elements
+title: About
 feature_text: |
-  A demo of Markdown and HTML includes
+  My history
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
+##### - Enrolling Yong In Univ. major in AI
 
-## Heading 2
 
-### Heading 3
+##### - MI LAB undergraduate researcher(Yong In University)
 
-#### Heading 4
 
-##### Heading 5
-
-###### Heading 6
-
-<small>A small element</small>
 
 [A link](https://david.darn.es "A link")
 
@@ -86,7 +79,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 {% raw %}{% include site-form.html %}{% endraw %}
 ```
 
-### Demo map embed
+### Where I Study
 
 {% include map.html id="1rd1BpJomQYHnNzXfip2UfOUueV7TXdY" title="Yong In University MILAB" %}
 
@@ -112,7 +105,7 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes){% endraw %}
 ```
 
-### Video include
+### My youtube
 
 {% include video.html id="I2vNhqzvVLw" title="Siteleaf tutorial video" %}
 
